@@ -1,0 +1,90 @@
+body{
+  background: #eee;
+}
+h1{
+  text-align: center;
+}
+#wrapper{
+  display: grid;
+  grid-template-columns: 400px 400px;
+  grid-template-rows: 300px 300px;
+  grid-gap: 20px 30px;
+  justify-content: center;
+}
+#Tomato{    
+  margin: 10px;  
+  width: 400px;
+  height: 300px;
+  border: 5px solid white;     
+  background-color: white;
+  float: left;
+}
+#header-tomato{
+  width: 100%;
+  height: 5%;
+  background-color: tomato;
+}
+#footer-tomato{
+  width: 100%;
+  height: 59%;
+  background-color: tomato;
+}
+
+#Teal{      
+  margin: 10px;
+  width: 400px;
+  height: 300px;
+  border: 5px solid white;     
+  background-color: white;
+  float: left;
+}
+#header-teal{
+  width: 100%;
+  height: 5%;
+  background-color: teal;
+}
+#footer-teal{
+  width: 100%;
+  height: 59%;
+  background-color: teal;
+  clear: both;
+}
+
+#Burlywood{      
+  margin: 10px;
+  width: 400px;
+  height: 300px;
+  border: 5px solid white;     
+  background-color: white;
+  float: left;
+}
+#header-bw{
+  width: 100%;
+  height: 5%;
+  background-color: burlywood;
+}
+#footer-bw{
+  width: 100%;
+  height: 59%;
+  background-color: burlywood;
+}
+
+#Thistle{      
+  margin: 10px;
+  width: 400px;
+  height: 300px;
+  border: 5px solid white;     
+  background-color: white;
+  float: left;
+}
+#header-thistle{
+  width: 100%;
+  height: 5%;
+  background-color: thistle;
+}
+#footer-thistle{
+  width: 100%;
+  height: 59%;
+  background-color: thistle;
+  clear: both;
+}
